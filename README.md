@@ -1,9 +1,9 @@
 => Blinkit Power BI Dashboard
 
    -> Overview :-
-      This repository contains a Power BI dashboard project that provides an in-depth analysis of Blinkit's sales performance,
-      customer satisfaction, and inventory distribution. The dashboard uses various KPIs and visualizations to deliver actionable 
-      insights for business optimization.
+      This repository contains a Power BI dashboard project that provides an in-depth analysis of 
+      Blinkit's sales performance,customer satisfaction, and inventory distribution. The dashboard 
+      uses various KPIs and visualizations to deliver actionable insights for business optimization.
 
    
    -> Key Features :-         
@@ -16,13 +16,16 @@
 -> Visualizations :-
   The dashboard includes the following charts:
 
-   -Total Sales by Fat Content             : Donut chart to analyze sales by fat content and its impact on KPIs.
+   -Total Sales by Fat Content             : Donut chart to analyze sales by fat content and its 
+                                             impact on KPIs.
    -Total Sales by Item Type               : Bar chart to identify high-performing item types.
    -Fat Content by Outlet for Total Sales  : Stacked column chart comparing sales across outlets.
    -Total Sales by Outlet Establishment    : Line chart showing how outlet type/age impacts sales.
-   -Sales by Outlet Size                   : Pie chart correlating outlet size with sales performance.
+   -Sales by Outlet Size                   : Pie chart correlating outlet size with sales 
+                                             performance.
    -Sales by Outlet Location               : Funnel map assessing geographic sales distribution.
-   -All Metrics by Outlet Type             : Matrix card for a holistic view of key metrics by outlet type.
+   -All Metrics by Outlet Type             : Matrix card for a holistic view of key metrics by 
+                                             outlet type.
 
 
 -> Project Steps :- 
@@ -38,6 +41,11 @@
   -Insights Generation      : Extract meaningful insights.
 
 
+-> Dashboard Screenshot :- 
+
+
+
+
 -> Files in this Repository :-
    
    -BlinkIT Grocery Data.xlsx    : Source data used for analysis.
@@ -46,7 +54,8 @@
 
 
 -> Insights :-
-   The dashboard reveals trends and relationships across Blinkit’s business metrics, enabling data-driven decision-making.
+   The dashboard reveals trends and relationships across Blinkit’s business metrics, enabling data- 
+   driven decision-making.
 
 
 -> Author :- Devashish Jadoun
